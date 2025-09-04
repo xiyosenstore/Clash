@@ -177,7 +177,7 @@ proxies:
     ws-opts:
       path: /Benxx-Project/143.42.66.91-443
       headers:
-        host: balckwolf.dpdns.org
+        host: blackshadow.dpdns.org
     tfo: false
     skip-cert-verify: false
   - name: SG - Oracle Corporation [ VLESS - TLS ]
